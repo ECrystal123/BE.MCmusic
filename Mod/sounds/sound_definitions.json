@@ -1,0 +1,20 @@
+{
+    "a": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/bgm/a",
+                "stream":true
+            }
+        ]
+    },
+    "b": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/bgm/b",
+                "stream":true
+            }
+        ]
+    }
+}

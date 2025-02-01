@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Music",
+    "name": "Music",
+    "uuid": "1c2a02c9-e3a2-4702-9319-d4d3231dfdbd",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "description": "Music",
+      "type": "resources",
+      "uuid": "11451451-bb0e-47c6-91f0-fdc4e76949e1",
+      "version": [1, 0, 0]
+    }
+  ]
+}
