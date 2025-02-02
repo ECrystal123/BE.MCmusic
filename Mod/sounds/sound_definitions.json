@@ -1,5 +1,5 @@
 {
-    "a": {
+    "bgm.a": {
         "category": "music",
         "sounds": [
             {
@@ -8,11 +8,47 @@
             }
         ]
     },
-    "b": {
+    "bgm.b": {
         "category": "music",
         "sounds": [
             {
                 "name": "sounds/bgm/b",
+                "stream":true
+            }
+        ]
+    },
+     "bgm.c": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/bgm/c",
+                "stream":true
+            }
+        ]
+    },
+    "bgm.d": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/bgm/d",
+                "stream":true
+            }
+        ]
+    },
+    "bgm.e": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/bgm/e",
+                "stream":true
+            }
+        ]
+    },
+    "bgm.f": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/bgm/f",
                 "stream":true
             }
         ]
