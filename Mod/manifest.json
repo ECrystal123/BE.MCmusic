@@ -1,18 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Music",
+    "description": "Music 由Ender_crystal123制作 §l§bV0.21",
     "name": "Music",
-    "uuid": "1c2a02c9-e3a2-4702-9319-d4d3231dfdbd",
-    "version": [0, 2, 0],
+    "uuid": "1c2a02c9-e3a2-4702-9318-d4d3231dfdbd",
+    "version": [0, 21, 0],
     "min_engine_version": [1, 13, 0]
   },
   "modules": [
     {
       "description": "Music",
       "type": "resources",
-      "uuid": "11451451-bb0e-47c6-91f0-fdc4e76949e1",
-      "version": [0, 2, 0]
+      "uuid": "11450451-bb0e-47c6-91f0-fdc4ee6949e1",
+      "version": [0, 21, 0]
     }
   ]
 }
