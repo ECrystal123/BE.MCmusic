@@ -52,5 +52,14 @@
                 "stream":true
             }
         ]
+    },
+    "bgm.g": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/bgm/g",
+                "stream":true
+            }
+        ]
     }
 }
