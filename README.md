@@ -1,5 +1,5 @@
 # BE.MCmusic
-## 使用方式：/playsound （歌曲编号） （玩家）
+## 使用方式：/function （歌曲编号）
 ## 现在可以使用/function musiclist 来显示音乐清单
 歌曲对应：
 bgm.a-----強風オールバック
@@ -18,4 +18,4 @@ bgm.g-----故乡的原风景
 
 共7首
 有什么建议可以给我发Issue哦
-V1.12
+V2.0
