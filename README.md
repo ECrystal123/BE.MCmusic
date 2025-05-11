@@ -1,7 +1,14 @@
 # BE.MCmusic
-## 使用方式：/function （歌曲编号）
-## 现在可以使用/function musiclist 来显示音乐清单
+---
+# 文档
+命令：
+
+/function musicfunction/歌曲编号 来播放歌曲
+
+/function musiclist 音乐清单
+
 歌曲对应：
+
 bgm.a-----強風オールバック
 
 bgm.b-----寝起きヤシの木 (feat.歌愛ユキ)
